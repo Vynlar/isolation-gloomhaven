@@ -1,0 +1,16 @@
+{
+  "cards": [
+    { "image": "http://placekitten.com/300/500" },
+    { "image": "http://placekitten.com/301/500" },
+    { "image": "http://placekitten.com/303/500" }
+  ],
+  "modifiers": [
+    { "image": "http://placehold.it/200/100" },
+    { "image": "http://placehold.it/200/100" },
+    { "image": "http://placehold.it/200/100" }
+  ],
+  "items": [
+    { "image": "http://placekitten.com/200/300" },
+    { "image": "http://placekitten.com/201/300" }
+  ]
+}

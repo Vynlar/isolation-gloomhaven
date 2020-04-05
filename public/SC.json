@@ -1,0 +1,50 @@
+{
+  "cards": [
+    { "image": "SC/flanking-strike.png" },
+    { "image": "SC/special-mixture.png" },
+    { "image": "SC/venom-shiv.png" },
+    { "image": "SC/open-wound.png" },
+    { "image": "SC/stiletto-storm.png" },
+    { "image": "SC/crippling-poison.png" },
+    { "image": "SC/visage-of-the-inevitable.png" },
+    { "image": "SC/flurry-of-blades.png" },
+    { "image": "SC/duelists-advance.png" }
+  ],
+  "modifiers": [
+      { "image": "Modifiers/am-p-2x.png" }, 
+      { "image": "Modifiers/am-p-null.png" }, 
+      { "image": "Modifiers/am-p-minus1.png" }, 
+      { "image": "Modifiers/am-p-plus0.png" },  
+      { "image": "Modifiers/am-p-plus0.png" },  
+      { "image": "Modifiers/am-p-plus2.png" },  
+      { "image": "Modifiers/am-p-plus2.png" },  
+      { "image": "Modifiers/am-p-plus1.png" },  
+      { "image": "Modifiers/am-p-plus1.png" },  
+      { "image": "Modifiers/am-p-plus1.png" },  
+      { "image": "Modifiers/am-p-plus1.png" },  
+      { "image": "Modifiers/am-p-plus1.png" },  
+      { "image": "Modifiers/am-p-plus1.png" },  
+      { "image": "Modifiers/am-sc-plus1reroll.png" },  
+      { "image": "Modifiers/am-sc-plus1reroll.png" },  
+      { "image": "Modifiers/am-sc-plus1reroll.png" },  
+      { "image": "Modifiers/am-sc-plus1reroll.png" },  
+      { "image": "Modifiers/am-sc-poison.png" },  
+      { "image": "Modifiers/am-sc-poison.png" },  
+      { "image": "Modifiers/am-sc-poison.png" },  
+      { "image": "Modifiers/am-sc-poison.png" },  
+      { "image": "Modifiers/am-sc-muddle.png" },  
+      { "image": "Modifiers/am-sc-muddle.png" },  
+      { "image": "Modifiers/am-sc-invisible.png" }
+  ],
+  "items": [
+    { "image": "Items/stun-powder.png" },
+    { "image": "Items/major-healing-potion.png" },
+    { "image": "Items/minor-power-potion.png" },
+    { "image": "Items/heart-of-the-betrayer.png" },
+    { "image": "Items/winged-shoes.png" },
+    { "image": "Items/eagle-eye-goggles.png" },
+    { "image": "Items/cloak-of-invisibility.png" },
+    { "image": "Items/silent-stiletto.png" },
+    { "image": "Items/volatile-bomb.png" }
+  ]
+}
